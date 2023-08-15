@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🎾 Tennis
 - ⚙️ Tech
 - 🛫 Travel
+- ☕ Coffee
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
