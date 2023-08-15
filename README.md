@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=FE%20Developer&height=150&fontSize=60&desc=Kangjae%20Choi&descAlignY=80&descAlign=67.5)
 
-## 🛠️ I'm ...
+## 🤔 I'm ...
 - Currently working as a front-end developer based in Seoul, South Korea.
 - As a high school student, I participated in a "Korea National Skills Competition" as a player.
 - After graduating from high school, I have been working as a front-end developer for 3 years.
