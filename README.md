@@ -42,4 +42,8 @@ Here are some ideas to get you started:
   <a href="mailto:awpe89@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=Gmail&logoColor=%23ffffff">
   </a>
+  <br />
+  <a href="https://github.com/kangjae4real/kangjae4real-kr/blob/master/README.md">
+    <img alt="Korean Version Badge" src="https://img.shields.io/badge/%ED%95%9C%EA%B8%80-%23018EF5?logo=readme&logoColor=%23ffffff">
+  </a>
 </p>
