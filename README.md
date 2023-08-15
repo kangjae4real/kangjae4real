@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=FE%20Developer&height=150&fontSize=60&desc=Kangjae%20Choi&descAlignY=80&descAlign=67.5)
 
-## 🛠️ Front-end Developer.
-- I'm currently working as a front-end developer based in Seoul, South Korea.
+## 🛠️ I'm ...
+- Currently working as a front-end developer based in Seoul, South Korea.
 - As a high school student, I participated in a "Korea National Skills Competition" as a player.
 - After graduating from high school, I have been working as a front-end developer for 3 years.
 - Furthermore, I am pursuing side gigs as a personal interest and generating extra income.
 
-## 🔭 I'm interested in...
+## 🔭 I'm interested in ...
 - 🎲 Game
 - 🏋️‍♂️ Fitness
 - 🎾 Tennis
