@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kangjae4real/kangjae4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi! 🙋🏻‍♂️
+## 🛠️ Front-end Developer.
+- I'm currently working as a front-end developer based in Seoul, South Korea.
+- As a high school student, I participated in a "Korea National Skills Competition" as a player.
+- After graduating from high school, I have been working as a front-end developer for 3 years.
+- Furthermore, I am pursuing side gigs as a personal interest and generating extra income.
+
+## 🔭 I'm interested in...
+- 🎲 Game
+- 🏋️‍♂️ Fitness
+- 🎾 Tennis
+- ⚙️ Tech
+- 🛫 Travel
