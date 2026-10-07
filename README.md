@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=FE%20Developer&height=150&fontSize=60&desc=Kangjae%20Choi&descAlignY=80&descAlign=67.5)
 
 ## 🤔 I'm ...
-- I have 5 years of experience working as a front-end developer in Seoul, South Korea.
+- I have 6 years of experience working as a front-end developer in Seoul, South Korea.
 - I'm currently majoring in digital media engineering at Soongsil University.
 
 ## 🔭 I'm interested in ...
